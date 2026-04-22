@@ -1,0 +1,10 @@
+Reflexion semana 1
+
+El uso responsable de la información en internet es fundamental para evitar la difusión de noticias falsas y promover una ciudadanía digital ética y consciente.
+A través de la participación ciudadana en entornos digitales, las personas pueden informarse, opinar y aportar a la sociedad de manera responsable.
+La organización del trabajo técnico con herramientas como Git permite registrar y controlar los cambios en los proyectos de forma ordenada.
+Esto facilita el trabajo colaborativo y mejora la transparencia en los procesos.
+Además, Git ayuda a mantener un historial claro de las actividades realizadas.
+En conjunto, estos elementos fortalecen el aprendizaje y el desarrollo de habilidades digitales.
+También promueven el pensamiento crítico frente a la información en línea.
+Por lo tanto, la tecnología bien utilizada contribuye a una mejor organización y participación en la sociedad.
