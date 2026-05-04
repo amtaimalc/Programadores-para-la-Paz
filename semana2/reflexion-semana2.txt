@@ -1,0 +1,3 @@
+El uso de la terminal es importante porque permite trabajar de forma más directa con los archivos y carpetas de un proyecto. A través de comandos es posible crear, organizar y modificar elementos sin necesidad de usar el mouse, lo que hace el proceso más ágil. También ayuda a tener mayor control sobre lo que se está haciendo, ya que cada acción se realiza de manera consciente. 
+
+Además, la terminal es fundamental para utilizar herramientas como Git, que permite guardar y subir los cambios a plataformas como GitHub. Esto facilita el trabajo ordenado y el seguimiento de las actividades realizadas. Aprender a usar la terminal también fortalece la lógica y la comprensión del funcionamiento de los sistemas.
