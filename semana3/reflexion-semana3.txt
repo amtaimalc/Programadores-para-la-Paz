@@ -1,5 +1,1 @@
-Considero que mantener un registro de cambios en los proyectos de software es importante porque permite organizar mejor el trabajo y entender cómo ha evolucionado el desarrollo con el tiempo. También ayuda a corregir errores sin perder avances anteriores.
-
-Pienso que herramientas como Git facilitan mucho este proceso, ya que permiten guardar versiones del proyecto y volver a ellas si es necesario. Esto da más seguridad al trabajar.
-
-Además, considero que en trabajos en equipo es fundamental, porque cada persona puede aportar sin afectar el trabajo de los demás.
+Considero que mantener un registro de cambios en los proyectos de software es importante porque permite organizar mejor el trabajo y entender cómo ha evolucionado el desarrollo con el tiempo. También ayuda a corregir errores sin perder avances anteriores. Pienso que herramientas como Git facilitan mucho este proceso, ya que permiten guardar versiones del proyecto y volver a ellas si es necesario. Esto da más seguridad al trabajar. Además, considero que en trabajos en equipo es fundamental, porque cada persona puede aportar sin afectar el trabajo de los demás.
