@@ -1,0 +1,3 @@
+La ruta /registro recibe datos enviados mediante una petición POST en formato JSON.
+El servidor procesa la información utilizando req.body y devuelve una respuesta confirmando la recepción de los datos enviados.
+Cuando se envían los campos nombre y mensaje, el servidor responde con un objeto JSON que incluye el estado "Datos recibidos" junto con los valores enviados por el usuario.
