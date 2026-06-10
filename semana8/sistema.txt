@@ -1,0 +1,3 @@
+El comando uname -a muestra información del sistema operativo, la versión del kernel y detalles del sistema. Permite conocer en qué entorno está funcionando la máquina.
+
+El comando whoami muestra el usuario actual del sistema, lo cual sirve para verificar con qué permisos se están ejecutando los comandos en la terminal.
